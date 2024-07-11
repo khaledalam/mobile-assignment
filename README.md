@@ -3,15 +3,16 @@
 
 #### Create a simple Tab View RN App.
 
-- For backend API endpoints useL: https://dummy.restapiexample.com/
+- For backend API endpoints use: https://dummy.restapiexample.com/
 - For app code MUST be in React Native
 
 
 **Summary:**
-This RN app will show Dummy employee list info on one Tab and when click some employee from the list it should show details of selected employee on another tab.
+This RN app will show dummy employee list info on one Tab and when click some employee from the list it should show details of selected employee on another tab.
 
 **Task Requirements:**
 
+- **Implementation:** Use best practices that you are using for production apps.
 - **Performance:** Make the app as fast as possible, e.g. use caching mechanism/techniques.
 - **Search and Filter:** Allow to search for employees by all their attributes.
 
