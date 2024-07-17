@@ -1,2 +1,9 @@
 .lh
 .history
+android/app/build/
+android/app/build/outputs/apk/debug/app-debug.apk
+node_modules
+node_modules/
+android
+ios
+__tests__/App.test.tsx
